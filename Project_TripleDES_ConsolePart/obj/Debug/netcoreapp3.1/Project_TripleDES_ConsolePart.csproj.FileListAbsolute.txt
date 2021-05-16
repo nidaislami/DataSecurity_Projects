@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Project_TripleDES_ConsolePart\bin\Debug\netcoreapp3.1\Project_TripleDES_ConsolePart.exe
+C:\Users\HP\source\repos\Project_TripleDES_ConsolePart\bin\Debug\netcoreapp3.1\Project_TripleDES_ConsolePart.deps.json
+C:\Users\HP\source\repos\Project_TripleDES_ConsolePart\bin\Debug\netcoreapp3.1\Project_TripleDES_ConsolePart.runtimeconfig.json
+C:\Users\HP\source\repos\Project_TripleDES_ConsolePart\bin\Debug\netcoreapp3.1\Project_TripleDES_ConsolePart.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Project_TripleDES_ConsolePart\bin\Debug\netcoreapp3.1\Project_TripleDES_ConsolePart.dll
+C:\Users\HP\source\repos\Project_TripleDES_ConsolePart\bin\Debug\netcoreapp3.1\Project_TripleDES_ConsolePart.pdb
+C:\Users\HP\source\repos\Project_TripleDES_ConsolePart\obj\Debug\netcoreapp3.1\Project_TripleDES_ConsolePart.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Project_TripleDES_ConsolePart\obj\Debug\netcoreapp3.1\Project_TripleDES_ConsolePart.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Project_TripleDES_ConsolePart\obj\Debug\netcoreapp3.1\Project_TripleDES_ConsolePart.AssemblyInfo.cs
+C:\Users\HP\source\repos\Project_TripleDES_ConsolePart\obj\Debug\netcoreapp3.1\Project_TripleDES_ConsolePart.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Project_TripleDES_ConsolePart\obj\Debug\netcoreapp3.1\Project_TripleDES_ConsolePart.dll
+C:\Users\HP\source\repos\Project_TripleDES_ConsolePart\obj\Debug\netcoreapp3.1\Project_TripleDES_ConsolePart.pdb
+C:\Users\HP\source\repos\Project_TripleDES_ConsolePart\obj\Debug\netcoreapp3.1\Project_TripleDES_ConsolePart.genruntimeconfig.cache

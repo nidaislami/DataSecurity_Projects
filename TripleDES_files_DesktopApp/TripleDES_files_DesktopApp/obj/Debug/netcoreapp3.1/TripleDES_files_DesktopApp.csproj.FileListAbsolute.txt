@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\TripleDES_files_DesktopApp\TripleDES_files_DesktopApp\bin\Debug\netcoreapp3.1\TripleDES_files_DesktopApp.exe
+C:\Users\Lenovo\source\repos\TripleDES_files_DesktopApp\TripleDES_files_DesktopApp\bin\Debug\netcoreapp3.1\TripleDES_files_DesktopApp.deps.json
+C:\Users\Lenovo\source\repos\TripleDES_files_DesktopApp\TripleDES_files_DesktopApp\bin\Debug\netcoreapp3.1\TripleDES_files_DesktopApp.runtimeconfig.json
+C:\Users\Lenovo\source\repos\TripleDES_files_DesktopApp\TripleDES_files_DesktopApp\bin\Debug\netcoreapp3.1\TripleDES_files_DesktopApp.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\TripleDES_files_DesktopApp\TripleDES_files_DesktopApp\bin\Debug\netcoreapp3.1\TripleDES_files_DesktopApp.dll
+C:\Users\Lenovo\source\repos\TripleDES_files_DesktopApp\TripleDES_files_DesktopApp\bin\Debug\netcoreapp3.1\TripleDES_files_DesktopApp.pdb
+C:\Users\Lenovo\source\repos\TripleDES_files_DesktopApp\TripleDES_files_DesktopApp\obj\Debug\netcoreapp3.1\TripleDES_files_DesktopApp.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\TripleDES_files_DesktopApp\TripleDES_files_DesktopApp\obj\Debug\netcoreapp3.1\TripleDES_files_DesktopApp.Form1.resources
+C:\Users\Lenovo\source\repos\TripleDES_files_DesktopApp\TripleDES_files_DesktopApp\obj\Debug\netcoreapp3.1\TripleDES_files_DesktopApp.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\TripleDES_files_DesktopApp\TripleDES_files_DesktopApp\obj\Debug\netcoreapp3.1\TripleDES_files_DesktopApp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\TripleDES_files_DesktopApp\TripleDES_files_DesktopApp\obj\Debug\netcoreapp3.1\TripleDES_files_DesktopApp.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\TripleDES_files_DesktopApp\TripleDES_files_DesktopApp\obj\Debug\netcoreapp3.1\TripleDES_files_DesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\TripleDES_files_DesktopApp\TripleDES_files_DesktopApp\obj\Debug\netcoreapp3.1\TripleDES_files_DesktopApp.dll
+C:\Users\Lenovo\source\repos\TripleDES_files_DesktopApp\TripleDES_files_DesktopApp\obj\Debug\netcoreapp3.1\TripleDES_files_DesktopApp.pdb
+C:\Users\Lenovo\source\repos\TripleDES_files_DesktopApp\TripleDES_files_DesktopApp\obj\Debug\netcoreapp3.1\TripleDES_files_DesktopApp.genruntimeconfig.cache

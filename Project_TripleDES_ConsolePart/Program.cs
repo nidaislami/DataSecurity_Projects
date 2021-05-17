@@ -111,30 +111,7 @@ class TripleDES1
         }
         return plaintext;
     }
-    static void EncryptFile1(String inName, String outName, byte[] desKey, byte[] desIV)
-    {
-
-        FileStream fin = new FileStream(inName, FileMode.Open, FileAccess.Read);
-        FileStream fout = new FileStream(outName, FileMode.OpenOrCreate, FileAccess.Write);
-        fout.SetLength(0);
-        byte[] bin = new byte[100];
-        long rdlen = 0;
-        long totlen = fin.Length;
-        int len;
-        DES des = new DESCryptoServiceProvider();
-        CryptoStream encStream = new CryptoStream(fout, des.CreateEncryptor(desKey, desIV), CryptoStreamMode.Write);
-        Console.WriteLine("Encrypting...");
-        while (rdlen < totlen)
-        {
-            len = fin.Read(bin, 0, 100);
-            encStream.Write(bin, 0, len);
-            rdlen = rdlen + len;
-            Console.WriteLine("{0} bytes processed", rdlen);
-        }
-        encStream.Close();
-        fout.Close();
-        fin.Close();
-    }
+  
     //files code part 
 
     static void EncryptFile(string srcFileName, string destFileName, byte[] key, byte[] iv)

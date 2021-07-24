@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TCP_Klienti
+namespace Server_TCP
 {
     public class Shfrytezuesi
     {
@@ -15,4 +15,6 @@ namespace TCP_Klienti
         public string profesioni { get; set; }
         public string email { get; set; }
     }
+
+
 }

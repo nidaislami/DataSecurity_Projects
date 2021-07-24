@@ -2,12 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Security.Cryptography;
-using System.Text;
 using System.Threading.Tasks;
 
-namespace Server_TCP
+namespace TCP_Klienti
 {
-    static class RSA
+    public class RSA
     {
         /*
         public static void main(string[] args)
@@ -49,6 +48,7 @@ namespace Server_TCP
 
             }
         }
+        
         */
         internal static RSAParameters ExportParameters(bool v)
         {

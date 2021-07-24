@@ -1,22 +1,41 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
+using System.Net.Sockets;
+using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
-using System.Windows.Forms;
 
-namespace TCP_Klienti
+namespace Server_TCP
 {
-    static class Program
+    class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
-        [STAThread]
-        static void Main()
+        static void Main(string[] args)
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Client());
+            int porti = 7000;
+            Socket server = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+            IPEndPoint endpoint = new IPEndPoint(IPAddress.Any, porti);
+            server.Bind(endpoint);
+
+            server.Listen(10);
+            Console.WriteLine("Duke pritur klientin ne portin " + porti);
+
+            while (true)
+            {
+                try
+                {
+                    Socket klienti = server.Accept();
+                    ConnectionHandler handler = new ConnectionHandler(klienti);
+
+                    Thread thread = new Thread(new ThreadStart(handler.HandleConnection));
+                    thread.Start();
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("Lidhja deshtoi ne portin " + porti);
+                }
+            }
         }
     }
 }
